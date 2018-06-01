@@ -1,0 +1,13 @@
+Please complete exercise 0 of the lpthw text. This exercise is the setup process. Most student will be using the Windows set up. I also suggest downloading Git and assure that you have a Github account. I will create a seperate lesson on Git / Github.
+
+
+To make you sure that you have completed the setup and are able to create python files, complete the following tasks.
+  1. Complete setup as described in lpthw.
+  2. Create a short Python program that;
+    A. comments what you did in the setup 
+    B. Prints a single line of output, "Mission accomplished".
+  3. Upload that file to the Github classroom
+  
+When doing the setup you stick to Notepad++, do not use Atom. Atom is an amazing text editor, probably the best one on the market today, but it is TOO GOOD. It automates too many feature that will hinder your learning. Once you learn Python well then we can migrate to Atom. The students that use Notepad++ and Git Bash will become experts at Python and Git. Those that use Atom will always be a bit behind, especially during the early learning portion. Once you are an advanced user, Atom will make you a very fast and efficient programmer. For now, those same function in Atom tht make you fast and efficient will slow down your learning. 
+
+This book and learning method is based on the old Latin principle, "repetitio est mater sapientia" (translates to "repition is mother of wisdom). Follow the plan, it works.
